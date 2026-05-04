@@ -1,0 +1,8 @@
+{
+  "name": "telegram-bot-pkr",
+  "version": "1.0.0",
+  "main": "admin.js",
+  "scripts": {
+    "start": "node admin.js"
+  }
+}
